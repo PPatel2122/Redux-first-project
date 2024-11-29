@@ -30,7 +30,7 @@ export const userList=[
     {
         id:5,
         name:"Ansh",
-        age:"102",
+        age:"18",
         email:"Ansh9904@gmail.com"
 
     }
